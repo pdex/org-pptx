@@ -1,0 +1,5 @@
+lxml==3.6.0
+Markdown==2.6.6
+Pillow==3.2.0
+python-pptx==0.5.8
+XlsxWriter==0.9.2
